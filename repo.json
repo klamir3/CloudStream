@@ -1,0 +1,11 @@
+{
+  "name": "ItalianProvider",
+  "version": "1.0.0",
+  "url": "https://github.com/Gian-Fr/ItalianProvider",
+  "repositories": [
+    {
+      "name": "StreamingCommunity",
+      "url": "https://github.com/Tuo-Username/cloudstream-extensions/StreamingCommunity.zip"
+    }
+  ]
+}
