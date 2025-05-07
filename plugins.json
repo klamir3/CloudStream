@@ -1,0 +1,21 @@
+{
+        "iconUrl": "https://streamingcommunity.lu/apple-touch-icon.png?v=2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "fileSize": 38259,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon"
+        ],
+        "version": 16,
+        "internalName": "StreamingCommunity",
+        "description": "TV Shows and Movies from StreamingCommunity",
+        "url": "https://raw.githubusercontent.com/klamir3/CloudStream/builds/StreamingCommunity.cs3",
+        "name": "StreamingCommunity"
+    }
